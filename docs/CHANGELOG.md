@@ -15,3 +15,8 @@
 - added "transformation_cleaning.ipynb"
 - cleaned "eurostat_demo_gind_DE_2010_2024.csv" to "eurostat_demo_gind_DE_2010_2024.csv"
 - updated "README.md" files
+
+### 30.12
+- added folder structure to README
+- added "requirements.txt"
+- 

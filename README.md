@@ -8,6 +8,17 @@ Made by:
 - [X] Dataset selection
 - [X] Research questions
 - [X] Roadmap
+
+## Folder Structure
+```
+DIS08-25-Team-7
+├───data
+│   ├───processed
+│   └───raw
+├───docs
+└───notebooks
+```
+
 ## Topic
 
 Migration und öffentliche Meinung in Deutschland. Untersuchung des Zusammenhangs zwischen der tatsächlichen Zuwanderungsrate und den Einstellungen der Bevölkerung gegenüber Migration in den Deutschland von 2010 - 2024.
