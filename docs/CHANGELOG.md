@@ -36,3 +36,15 @@
 
 ### Changed
 - updated the "CHANGELOG.md" structure
+
+## 2026.01.06
+
+### Added
+- "extraction.ipynb" fetches data from Google Trends
+- "google_t_transf_clean.ipynb" for cleaning the Google Trends dataset
+- "merge_data.ipynb" for combining datasets
+- new datasets, cleaned datasets, merged dataset
+
+### Changed
+- went from opinions to interest
+- renamed various notebooks
