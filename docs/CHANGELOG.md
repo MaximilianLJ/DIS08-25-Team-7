@@ -48,3 +48,13 @@
 ### Changed
 - went from opinions to interest
 - renamed various notebooks
+
+## 2026.01.12
+
+### Added
+- "eurobarometer.csv" manually scraped data from the pdfs
+- "eurobarometer_pivot.csv"
+
+### Changed
+- completed "combined_migration.csv"
+- completed "merge_data.ipynb"
