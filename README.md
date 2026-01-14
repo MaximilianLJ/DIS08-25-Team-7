@@ -7,9 +7,6 @@
 Migration and Public Opinion in Germany (2010 - 2024)  
 This project examines how net migration to Germany developed between 2010 and 2024 and how public concern about migration changed during the same period. In addition, the project analyses whether there is an empirical relationship between actual migration levels, public concern and online attention to migration related topics.
 
-### 2.1 Goals
-
-
 ## 3. Data Selection
 
 ### 3.1 Open Data Sources
