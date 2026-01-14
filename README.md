@@ -68,3 +68,10 @@ cd DIS08-25-Team-7
 ### 7.3 Notebooks
 - Use the Notebooks in /notebook to extract, clean and transform the data 
 - alternatively get the finished dataset from /data/processed
+
+#### 7.31 Do it yourself 
+1. Run extraction.ipynb
+2. Run the 2 cleaning notebooks google_t_transf_clean.ipynb & eurostat_transf_clean.ipynb
+3. Either use my manually compiled .csv for Eurobarometer or get the Data yourself from the pdf files in /data/raw/eurobarometer_pdfs
+4. Run merge_data.ipynb
+5. Look at the interpretation and analysis in analysis.ipynb
