@@ -69,3 +69,8 @@
 - finished "analysis.ipynb"
 - cleaned up "requirements.txt"
 - freshened up "README.md"
+
+### Removed
+- "README_TopicGermany.md"
+- redundant or self explanatory README files
+- requirements.txt and moved it to README
