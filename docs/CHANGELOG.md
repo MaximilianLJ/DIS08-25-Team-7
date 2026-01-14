@@ -58,3 +58,14 @@
 ### Changed
 - completed "combined_migration.csv"
 - completed "merge_data.ipynb"
+
+## 2026.01.13
+
+### Added
+- "README.de.md"
+- figures
+
+### Changed
+- finished "analysis.ipynb"
+- cleaned up "requirements.txt"
+- freshened up "README.md"

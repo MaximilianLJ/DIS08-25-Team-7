@@ -1,20 +1,16 @@
 # DIS08-25-Team-7 - Group 7 - Data Modelling DIS08
 Made by:
-- Maximilian L. Jäger - 11333148
+- Maximilian Leonard Jäger - 11333148
 - Emirhan Hamit Eraslan - 11404231 
 ---
-## TODO:
-- [X] Topic
-- [X] Dataset selection
-- [X] Research questions
-- [X] Roadmap
-
 ## Folder Structure
 ```
 DIS08-25-Team-7
 ├───data
+│   ├───figures
 │   ├───processed
 │   └───raw
+│       └───eurobarometer_pdfs
 ├───docs
 └───notebooks
 ```
