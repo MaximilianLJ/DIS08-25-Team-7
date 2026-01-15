@@ -19,10 +19,10 @@ This project examines how net migration to Germany developed between 2010 and 20
 
 ## 4. Research Question
 
-RQ1: How has net migration to Germany developed between 2010 and 2024?
-RQ2: How has public concern about migration in Germany changed in that time period?
-RQ3: Is there an empirical relationship between migration levels and public concern? 
-RQ4: How does online attention to migration related topcis relate to the concern? 
+RQ1: How has net migration to Germany developed between 2010 and 2024?  
+RQ2: How has public concern about migration in Germany changed in that time period?  
+RQ3: Is there an empirical relationship between migration levels and public concern?   
+RQ4: How does online attention to migration related topcis relate to the concern?   
 
 ## 5. Tools used
 - Jupyter Notebooks (Python & Markdown)
